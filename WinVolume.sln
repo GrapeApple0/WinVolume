@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32422.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinVolume", "WinVolume.csproj", "{F552FBAD-8F78-451E-A948-FDF81500FDE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F552FBAD-8F78-451E-A948-FDF81500FDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F552FBAD-8F78-451E-A948-FDF81500FDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F552FBAD-8F78-451E-A948-FDF81500FDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F552FBAD-8F78-451E-A948-FDF81500FDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F067E26B-B2FB-4890-8B90-B388B8E17259}
+	EndGlobalSection
+EndGlobal
